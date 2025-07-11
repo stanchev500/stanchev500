@@ -33,7 +33,7 @@ Check out my Sherlock profile [here](https://audits.sherlock.xyz/watson/stanchev
 | 2025.02 | Codehawks  	| [RAAC](https://raac.io/)             				                                          | RWA                             | 15H,12M	| Top 10 🏆 |
 | 2025.01 | Code4rena 	| [IQ AI]()                                                                             | Tokenized agents for DeFi       | 1M      | Top 5 🏆 |
 | 2025.01 | Code4rena  	| [Liquid Ron]()                                 			                                  | Liquidity for RON		            | 1H,2M   | Top 5 🏆 |
-| 2025.01 | Sherlock  	| [Plazza Finance](https://audits.sherlock.xyz/contests/682)              				      | Bonds and Leverage on Base      | 2H,5M	  | |
+| 2025.01 | Sherlock  	| [Plaza Finance](https://audits.sherlock.xyz/contests/682)              				      | Bonds and Leverage on Base      | 2H,5M	  | |
 | 2024.12 | Code4rena 	| [SecondSwap]()                                                                        | Liquidity for illiquid assets   | 1H,1M   | |
 | 2024.12 | Code4rena  	| [Lambo.Win]()                                  			                                  | Launchpad			                	| 1H      | |
 | 2024.12 | Sherlock  	| [Oku](https://audits.sherlock.xyz/contests/641)               					              | CeFi order types to DeFi        | 1H,1M	  | |
