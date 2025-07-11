@@ -7,7 +7,7 @@ Experienced smart contract security researcher, specializing in securing DeFi, S
 If you have any questions or are seeking a security review for your project, feel free to contact me at:
 
 - Twitter / X - [**stanchev**](https://twitter.com/stanchev_33)
-- Telegram - [**stanchev**](https://t.me/stanchev_33) 
+- Telegram    - [**stanchev**](https://t.me/stanchev_33) 
 
 ## My Work
 
