@@ -26,7 +26,7 @@ Check out my Sherlock profile [here](https://audits.sherlock.xyz/watson/stanchev
 
 | Date | Platform | Contest                              		  | Category                          			| Findings 	| Rankings |
 | - | - | ----| ------------------------------------ 		  | 	-		|   -   |
-| 2025.05 | Cantina   	| [Jigsaw Finance]()                                                                    | Dynamic collateral Lending      | Soon    | |
+| 2025.05 | Cantina   	| [Jigsaw Finance]()                                                                    | Dynamic collateral Lending      | 2H      | |
 | 2025.05 | Cantina   	| [Mystic Finance]()                                                                    | RWA Lending                     | 2M      | |
 | 2025.04 | Sherlock   	| [Burve]()                                                                             | AMM                             | 4H,1M   | |
 | 2025.04 | Code4rena   |	[Kinetq]()                                                                            | LST on Hyperliquid              | 1M      | |
