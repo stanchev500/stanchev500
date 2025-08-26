@@ -15,9 +15,12 @@ Check out my Sherlock profile [here](https://audits.sherlock.xyz/watson/stanchev
 
 ## Private engagements
 
-| Date    | Team        | Project                              | Category                                         	| Findings    | Report   	|
-| ------- | -------	    | ------------------------------------ | ----------------------------------				 		      |      -      | :--:      |
-| 2024.11 | 056Security | Ethos                                |  		Ethos Financial Contracts V1			            | 4C,2H,4M    | [Open](https://github.com/056Security/audits/blob/main/private/Ethos-security-review.pdf)	|
+| Date    | Team        | Project                              | Category                                         	| Report   	|
+| ------- | -------	    | ------------------------------------ | ----------------------------------				 		      | :--:      |
+| 2025.08 | Bailsec     | Camelot                              |  		Swapper logic			                            | 	|
+| 2024.07 | Bailsec     | Hyperdrive                           |  		Tokenized Vault			                          | 	|
+| 2024.07 | Bailsec     | Hyperdrive                           |  		LST                                           | 	|
+| 2024.11 | 056Security | Ethos                                |  		Ethos Financial Contracts V1			            | [Open](https://github.com/056Security/audits/blob/main/private/Ethos-security-review.pdf)	|
 
 ## Public Audit Contests
 
