@@ -17,6 +17,8 @@ Check out my Sherlock profile [here](https://audits.sherlock.xyz/watson/stanchev
 
 | Date    | Team        | Project                              | Category                                         	| Report   	|
 | ------- | -------	    | ------------------------------------ | ----------------------------------				 		      | :--:      |
+| 2025.10 | Bailsec     | Camelot                              |  		Swapper logic			                            | 	|
+| 2025.10 | OakSecurity | Thema                                |  		Token basket			                            | 	|
 | 2025.08 | Bailsec     | Kelp                                 |  		LRT		                                        | 	|
 | 2025.08 | Bailsec     | Camelot                              |  		Swapper logic			                            | 	|
 | 2024.07 | Bailsec     | Hyperdrive                           |  		Tokenized Vault			                          | 	|
